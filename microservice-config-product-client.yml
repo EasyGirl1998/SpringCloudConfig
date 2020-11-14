@@ -61,8 +61,8 @@ spring:
    type: com.alibaba.druid.pool.DruidDataSource # 配置当前要使用的数据源的操作类型
    driver-class-name: com.mysql.cj.jdbc.Driver # 配置MySQL的驱动程序类
    url: jdbc:mysql://39.97.177.78:3306/testmis81?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Hongkong
-    username: root
-    password: WangChen?981203
+   username: root
+   password: WangChen?981203
  application:
    name: microservice-config-product-client
  profiles: beta
